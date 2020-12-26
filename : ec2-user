@@ -1,0 +1,13 @@
+[33mcommit 7a2b83b83ef9c49af95b92f76a54eac401bf036f[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: rajesh <rajesh@gmail.com>
+Date:   Sat Dec 26 10:16:26 2020 +0000
+
+    My First commit from mumbai
+
+[1mdiff --git a/mumbai1 b/mumbai1[m
+[1mnew file mode 100644[m
+[1mindex 0000000..3f5d5eb[m
+[1m--- /dev/null[m
+[1m+++ b/mumbai1[m
+[36m@@ -0,0 +1 @@[m
+[32m+[m[32mdil e nadaan tujhe hua kya hai[m
